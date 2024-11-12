@@ -76,8 +76,9 @@ Print the tree structure
 Find the minimum, maximum, predecessor, and successor of nodes
 Perform in-order traversal
 Retrieve the rank and select the k-th smallest element in the tree
-
-
+Example
+cpp
+Copy code
 int main() {
     RedBlackTree tree;
     tree.insert(20);
@@ -112,5 +113,4 @@ int main() {
     }
     return 0;
 }
-
 This example demonstrates the main functions of the Red-Black Tree, showing how nodes are added, deleted, and queried for their properties.
