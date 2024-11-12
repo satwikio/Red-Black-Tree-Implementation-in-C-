@@ -71,15 +71,15 @@ int main() {
 }
 
 
-Mathematical Complexity
-Red-Black Trees have a height of $O(\log n)$, which guarantees efficient operations. This ensures the time complexity for search, insertion, and deletion is $O(\log n)$ in the worst case.
+## Mathematical Complexity
 
-How to Run
-Clone the repository:
+Red-Black Trees have a height of $O(\log n)$, which guarantees efficient operations. This ensures the time complexity for **search**, **insertion**, and **deletion** is $O(\log n)$ in the worst case.
 
-bash
-Copy code
-git clone https://github.com/your-username/Red-Black-Tree-Implementation-in-Cpp.git
+## How to Run
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/Red-Black-Tree-Implementation-in-Cpp.git
 Navigate into the project directory:
 
 bash
@@ -91,4 +91,4 @@ bash
 Copy code
 g++ main.cpp -o RedBlackTree
 ./RedBlackTree
-This will execute the sample code in main.cpp, demonstrating the Red-Black Tree operations
+This will execute the sample code in main.cpp, demonstrating the Red-Black Tree operations.
