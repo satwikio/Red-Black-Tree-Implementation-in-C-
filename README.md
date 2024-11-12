@@ -68,7 +68,10 @@ int main() {
     cout << "Successor of 10: " << tree.find_successor(10) << endl;
 
     return 0;
-}```
+}
+```
+
+
 
 
 ## Mathematical Complexity
@@ -80,15 +83,16 @@ Red-Black Trees have a height of $O(\log n)$, which guarantees efficient operati
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/Red-Black-Tree-Implementation-in-Cpp.git
+   ```
 Navigate into the project directory:
 
-bash
-Copy code
+```bash
 cd Red-Black-Tree-Implementation-in-Cpp
-Compile and run the code:
+```
 
-bash
-Copy code
+Compile and run the code:
+```bash
 g++ main.cpp -o RedBlackTree
 ./RedBlackTree
+```
 This will execute the sample code in main.cpp, demonstrating the Red-Black Tree operations.
